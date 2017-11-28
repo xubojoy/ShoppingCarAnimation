@@ -13,6 +13,7 @@
 		1C8D0EDB1FCD34E700D13474 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C8D0EDA1FCD34E700D13474 /* Assets.xcassets */; };
 		1C8D0EDE1FCD34E700D13474 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C8D0EDC1FCD34E700D13474 /* LaunchScreen.storyboard */; };
 		1C8D0EE11FCD34E700D13474 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C8D0EE01FCD34E700D13474 /* main.m */; };
+		1C8D0EE81FCD35CB00D13474 /* logo.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1C8D0EE71FCD35CB00D13474 /* logo.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		1C8D0EDD1FCD34E700D13474 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1C8D0EDF1FCD34E700D13474 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1C8D0EE01FCD34E700D13474 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		1C8D0EE71FCD35CB00D13474 /* logo.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = logo.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				1C8D0ED21FCD34E700D13474 /* AppDelegate.m */,
 				1C8D0ED41FCD34E700D13474 /* ViewController.h */,
 				1C8D0ED51FCD34E700D13474 /* ViewController.m */,
+				1C8D0EE71FCD35CB00D13474 /* logo.jpeg */,
 				1C8D0ED71FCD34E700D13474 /* Main.storyboard */,
 				1C8D0EDA1FCD34E700D13474 /* Assets.xcassets */,
 				1C8D0EDC1FCD34E700D13474 /* LaunchScreen.storyboard */,
@@ -131,6 +134,7 @@
 			files = (
 				1C8D0EDE1FCD34E700D13474 /* LaunchScreen.storyboard in Resources */,
 				1C8D0EDB1FCD34E700D13474 /* Assets.xcassets in Resources */,
+				1C8D0EE81FCD35CB00D13474 /* logo.jpeg in Resources */,
 				1C8D0ED91FCD34E700D13474 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
